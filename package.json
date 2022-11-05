@@ -11,6 +11,7 @@
   "dependencies": {
     "@rescript/react": "0.10.3",
     "@vitejs/plugin-react": "1.0.1",
+    "date-fns": "^2.29.3",
     "react": "17.0.0",
     "react-dom": "17.0.0",
     "rescript": "9.1.4",
